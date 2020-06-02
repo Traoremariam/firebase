@@ -1,0 +1,51 @@
+h1
+{
+text-align: center;
+}
+.section1
+{
+	background: #6495ed;
+
+	height: 100%;
+	width: 100%;
+	font-size: 20px;
+	
+}
+
+h2
+{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 40px;
+}
+.section2
+{
+	
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	padding-top: 10px;
+	margin-right: auto;
+	margin-left:auto;
+	background: #6495ed;
+	font-size: 20px
+}
+.marron
+{
+
+
+	background: #b22222;
+	width: 60%;
+	margin-right: auto;
+	margin-left:auto;
+
+
+
+}
+
+div strong
+{text-align: center;
+	font-size: 25px;
+}
